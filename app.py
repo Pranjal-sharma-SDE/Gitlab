@@ -1,1 +1,3 @@
-print("Har Har Mahadev")
+def sum(a,b):
+    return a+b
+
